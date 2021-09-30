@@ -8,4 +8,4 @@ Algoritmo sin_titulo
 		Escribir "Solo disponible para adultos"
 	FinSi
 FinAlgoritmo
-//5.	Lea la edad de un usuario y si es mayor o igual a 18 escriba "Puede iniciar sesión" de lo contrario, escriba "solo disponible para adultos".
+//5.	MOdificacion GIt Test)))Lea la edad de un usuario y si es mayor o igual a 18 escriba "Puede iniciar sesiï¿½n" de lo contrario, escriba "solo disponible para adultos".
